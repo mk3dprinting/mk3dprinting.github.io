@@ -140,7 +140,9 @@ ul, li {
 #Header .site-logo-wrap .logo img {
 	display: inline-block;
 	vertical-align: middle;
-	width: 80px;
+	width: 180px;
+	margin-top: 10px;
+	margin-left: -280px;
 }
 #Header .main-menu {
 	width: 70%;
@@ -483,7 +485,7 @@ ul, li {
 	background-color: rgba(10,40,60,0.5);
 	color: #fff;
 	padding: 50px 0;
-	font-size: 18px;
+	font-size: 21px;
 }
 #Testimonial .testimonial-slider {
 	text-align: center;
